@@ -15,7 +15,7 @@ InputData = Dataset/test_n_1000_c_1000000_g_10_f_0.3_eps_0.1_s_300.in
 CAPACITY = 1000000
 ITEMS = 1000
 
-- |Agile Knapsack Algoritm 8bit 2
+|Agile Knapsack Algoritm 8bit 2
         |- Value : 1017914
         |- Time Excute : 3.55829 sec
         |- Opt Path :
